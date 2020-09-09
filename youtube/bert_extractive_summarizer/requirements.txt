@@ -1,0 +1,2 @@
+youtube-transcript-api==0.3.1
+bert-extractive-summarizer==0.4.2
